@@ -16,19 +16,9 @@
         "description": "Get this value from my.telegram.org! Please do not steal",
         "value": ""
       },
-      "API_HASH": {
-        "description": "Get this value from my.telegram.org! Please do not steal",
-        "value": ""
-      },
       "CHAT_ID": {
         "description": "Your Group Id",
         "value": ""
-      },
-      "ENV": {
-        "description": "Dont Do Anything",
-        "value": "True",
-        "required": false
-      }
     },
     "buildpacks": [
       {
