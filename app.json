@@ -1,27 +1,57 @@
 {
+
     "name": "telegram-chat-eater",
+
     "description": "Simple bot to delete messages Telethon.",
+
     "keywords": [
+
       "telegram",
+
       "bot",
+
       "plugin",
+
       "telegram-forwardbot",
+
       "productivity"
+
     ],
+
     "repository": "https://github.com/MrAnonymous071/telegram-chat-eater",
+
     "website": "https://github.com/MrAnonymous071/telegram-chat-eater",
+
     "success_url": "https://github.com/MrAnonymous071/telegram-chat-eater",
+
     "env": {
+
       "API_TOKEN": {
+
         "description": "Get this value from my.telegram.org! Please do not steal",
+
         "value": ""
+
+        }
+
       },
+
       "CHAT_ID": {
+
         "description": "Your Group Id",
+
         "value": ""
+
     },
+
     "buildpacks": [
+
       {
+
         "url": "heroku/python"
+
       }
+
     ]
+
+  }
