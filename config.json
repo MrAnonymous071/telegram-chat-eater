@@ -1,4 +1,4 @@
-{
+config{
 
     "API_TOKEN": "your telegram bot api token",
 
